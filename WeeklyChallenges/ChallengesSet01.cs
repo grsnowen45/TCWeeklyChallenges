@@ -62,7 +62,7 @@ namespace WeeklyChallenges
 
         public string GetHey()
         {
-            return "HEY!";
+            return "{}";
 
         }
     }
